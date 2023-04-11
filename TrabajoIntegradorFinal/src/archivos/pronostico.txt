@@ -1,0 +1,6 @@
+Catar 0 0 1 Ecuador
+Inglaterra 1 0 0 Iran
+Senegal 0 0 1 Paises_bajos
+Dinamarca 1 0 0 Tunez
+Argentina 1 0 0 Arabia_Saudita
+Polonia 0 1 0 México
